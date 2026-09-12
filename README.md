@@ -233,7 +233,7 @@ Product categories are compared using:
 This helps identify categories that combine high marketplace value with
 elevated operational or customer risk.
 
-![Customer, Seller & Investigation](https://raw.githubusercontent.com/gurramharshitha7/Olist-Marketplace-Operations/main/images/03_Customer_Seller_Investigation.png)
+![Customer, Seller & Investigation](images/03_Customer_Seller_Investigation.png)
 
 ------------------------------------------------------------------------
 
