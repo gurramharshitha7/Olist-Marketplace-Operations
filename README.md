@@ -18,14 +18,6 @@ Dashboards → Business Insights**
 
 ------------------------------------------------------------------------
 
-## 🔗 Links
-
--   **LinkedIn:**
-    https://www.linkedin.com/in/gurram-harshitha-939179277/
--   **GitHub Profile:** https://github.com/gurramharshitha7
-
-------------------------------------------------------------------------
-
 # 📌 Project Overview
 
 An e-commerce marketplace involves multiple connected processes:
