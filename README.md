@@ -375,8 +375,6 @@ Olist-Marketplace-Operations/
 └── README.md
 ```
 
-> **Note on data:** The raw and processed datasets are not included in this repository because their combined file size exceeds GitHub's upload limits. Zipping the data folders does not reduce the files enough to meet the repository size restrictions. The SQL scripts, notebooks, Tableau workbook, dashboards, and README document the complete analytical workflow and project approach.
-
 ------------------------------------------------------------------------
 
 # 🚀 How to Explore This Project
