@@ -420,6 +420,3 @@ data analytics, with a focus on building end-to-end projects that
 combine data analysis, SQL, visualization, and business-focused
 insights.
 
--   **LinkedIn:**
-    https://www.linkedin.com/in/gurram-harshitha-939179277/
--   **GitHub:** https://github.com/gurramharshitha7
