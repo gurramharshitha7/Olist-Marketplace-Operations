@@ -96,7 +96,7 @@ This project answers questions such as:
   **SQL**                             Data exploration, joins,
                                       aggregations and analytical queries
 
-  **PostgreSQL**                      Data storage and analysis
+  **MS SQL Server**                      Data storage and analysis
 
   **Tableau Public**                  Interactive dashboard development
                                       and visualization
